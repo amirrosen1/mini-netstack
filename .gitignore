@@ -1,0 +1,10 @@
+*.o
+*.log
+*.pcap
+*.zip
+*.vmdk
+netstack
+build/
+.vscode/
+.idea/
+__pycache__/
